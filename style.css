@@ -73,7 +73,7 @@ footer h4{
 .courses{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-column-gap: 10px;
+    grid-column-gap: 200px;
 }
 /* ----------Media-query----- */
 @media only screen and (max-width:688px){
@@ -108,6 +108,9 @@ footer h4{
         color: cornsilk;
         font-weight: 700;
     }
+    .animation:hover{
+        transform: rotate(60deg);
+    }
 }
 /* tablet devices */
 @media only screen and (min-width:688px) and (max-width:992px){
@@ -136,6 +139,9 @@ footer h4{
         width: 80%;
         
         padding-right: 20% ;
+    }
+    .animation:hover{
+        transform: rotate(60deg);
     }
 }
 .animation:hover{
