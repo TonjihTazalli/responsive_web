@@ -32,3 +32,7 @@ footer h4{
     font-family: 'Times New Roman', Times, serif;
     color: blanchedalmond;
 }
+.bg{
+    background-color: black;
+    height: 120px;
+}
