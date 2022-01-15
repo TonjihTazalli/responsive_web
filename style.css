@@ -22,3 +22,13 @@ h1{
     color: cornsilk;
     font-weight: 700;
 }
+section{
+    display: flex;
+    margin-bottom: 500px;
+}
+footer h4{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: blanchedalmond;
+}
