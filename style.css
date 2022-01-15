@@ -36,3 +36,37 @@ footer h4{
     background-color: black;
     height: 120px;
 }
+.section-title{
+    text-align: center;
+}
+.half-width2{
+    width: 50%;
+    padding-left: 50PX;
+   
+    
+   
+}
+.half-width2 img{
+    width: 70%;
+    
+    padding-left: 20% ;
+}
+.link-button2{
+    text-decoration: none;
+    background-color: rgb(245, 81, 190);
+    padding: 10px 40px ;
+    border-radius: 5px;
+    color: cornsilk;
+    font-weight: 700;
+}
+
+/* -------------courses-styles----------- */
+.course .course-banner img{
+
+    width:200 px;
+    height:230 px;
+}
+/* .course-info{
+    display: flex;
+
+} */
